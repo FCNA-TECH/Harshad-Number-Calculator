@@ -37,6 +37,8 @@ class Program{
                   Console.WriteLine("  ");
                   Console.WriteLine("====================================");
                   Console.WriteLine(" ");
+                  Console.WriteLine("Enter either 1 or 2 ");
+                  Console.WriteLine(" ");
                   Console.WriteLine("Enter the number: ");
                   option = Console.ReadLine();
                   Console.WriteLine("------------------------------------");
